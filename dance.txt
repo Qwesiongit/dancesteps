@@ -1,0 +1,4 @@
+Move to left
+Move to the right
+Move up and and down
+Do the rainbow dance
